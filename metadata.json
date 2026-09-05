@@ -1,0 +1,6 @@
+{
+  "name": "SmartMed",
+  "description": "AI Care Companion featuring Thumb-Zone Architecture, interactive two-way AI phone call reminders, multilingual support with Urdu RTL, prescription scanning, and caregiver alerts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
